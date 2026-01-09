@@ -1,4 +1,4 @@
 # MAGA
 
-coming soon today.
+coming soon in a week.
 
