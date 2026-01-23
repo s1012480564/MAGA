@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Detector-R--B MAGA-green"></a>
 </p>
 
-**This is the official repository for "[Machine-Augment-Generated Text via Alignment Detection Benchmark](https://www.arxiv.org/abs/2601.04633)".** 
+**This is the official repository for "[MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark](https://www.arxiv.org/abs/2601.04633)".** 
 
 ## Introduction
 
